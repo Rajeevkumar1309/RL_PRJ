@@ -1,0 +1,4 @@
+gymnasium[classic-control]>=1.0,<2.0
+matplotlib>=3.8,<4.0
+numpy>=1.26,<3.0
+pytest>=8,<9
