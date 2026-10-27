@@ -106,4 +106,3 @@ This is a compact educational reproduction of the central PPO idea, not a full r
 Suggested presentation title:
 
 > Can Stable Policy Updates Improve Reinforcement Learning? PPO vs. REINFORCE on CartPole
-hello
